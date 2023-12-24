@@ -1,0 +1,7 @@
+
+npm init -y --> creates package.json which is requried to understand project dependencies
+
+npm install -g nodemon --> node mon is a package to help and identify the changes in node js server programns and auto updates the same 
+
+
+nodemon server.js

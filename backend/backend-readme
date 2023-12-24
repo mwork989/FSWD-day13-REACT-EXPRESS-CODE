@@ -1,0 +1,58 @@
+Core modules - are modules which are installed when we install node.js 
+and here are full list of core modules
+
+assert: Provides a set of assertion tests for verifying invariants.
+
+buffer: Deals with binary data directly through a Buffer object.
+
+child_process: Enables running child processes.
+
+cluster: Allows forking of processes to take advantage of multi-core systems.
+
+crypto: Provides cryptographic functionality including a set of wrappers for OpenSSL's hash, HMAC, cipher, decipher, sign, and verify functions.
+
+dgram: Provides implementation for UDP datagram sockets.
+
+dns: Includes functions to perform name resolution and DNS lookups.
+
+events: Provides the EventEmitter class, central to many Node.js APIs.
+
+fs: File system operations, such as reading and writing files.
+
+http: Provides HTTP server and client functionality.
+
+https: Similar to the HTTP module, but for HTTPS.
+
+net: Provides an asynchronous network API for creating stream-based TCP or IPC servers and clients.
+
+os: Provides basic operating-system related utility functions.
+
+path: Contains utilities for handling and transforming file paths.
+
+process: Provides information about and control over the current Node.js process.
+
+querystring: Provides utilities for parsing and formatting URL query strings.
+
+readline: Provides a way of reading a line from an input stream one line at a time.
+
+repl: Provides a Read-Eval-Print Loop (REPL) implementation.
+
+stream: Abstract interface implemented by various objects in Node.js.
+
+string_decoder: Provides a way of decoding Buffer objects into strings.
+
+timers: Provides functions to execute a function after a set amount of time.
+
+tls: Provides a TLS (formerly known as SSL) implementation.
+
+url: Provides utilities for URL resolution and parsing.
+
+util: Provides utilities in various areas.
+
+v8: Exposes APIs that are specific to the version of V8 built with Node.js.
+
+vm: Provides APIs for compiling and running scripts within V8 Virtual Machine contexts.
+
+zlib: Provides compression functionality implemented using Gzip and Deflate/Inflat
+
+
