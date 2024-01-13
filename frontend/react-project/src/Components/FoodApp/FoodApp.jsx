@@ -1,8 +1,8 @@
 
 import { useEffect, useState } from 'react';
-import './App.css';
+import './FoodApp.css';
 
-const App = () => {
+const FoodApp = () => {
 
 const [foodLists,setFoodList] = useState([])
 
@@ -32,4 +32,4 @@ useEffect(()=>{
   );
 }
 
-export default App;
+export default FoodApp;

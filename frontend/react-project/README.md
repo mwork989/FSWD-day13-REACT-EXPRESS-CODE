@@ -115,3 +115,31 @@ DELETE: Removes the specified resource. This method is used to delete a resource
 Install postman , mongodb 7 version
 
 https://github.com/mwork989/FSWD-day13-REACT-EXPRESS-CODE
+
+
+
+13/01/2023  React study notes
+-----------------------
+
+Agenda -
+1. Understand components in REact functional vs class based
+2. why you should choose function based
+3. writing the code in ES6 way
+4. event and data binding and syntax, we are able to do some styling 
+5. Routing in react
+
+
+For implementing routing in react we have to follow these steps
+
+react-router-dom always choose 4 month old package for stability and bugs information
+
+1.npm install react-router-dom
+2.configuring the router and router provider
+3.we created a layout for navigating and where to display the content during
+navigating outlet tag from react router dom will be used
+4. Defning the routes in App.jsx 
+5. Link tag is being used for navigating coming from react router dom
+we did thise additonal step in react routing because its a add on package
+so we need to communicate to react how to utilize this
+
+

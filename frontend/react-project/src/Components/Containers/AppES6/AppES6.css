@@ -1,0 +1,8 @@
+
+.containers-style{
+    border: 1px solid green;
+    background-color: lightgreen;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
