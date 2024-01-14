@@ -1,0 +1,15 @@
+{
+  "name": "fswd-day13-react-express-code",
+  "version": "1.0.0",
+  "description": "Software needed",
+  "main": "index.js",
+  "scripts": {
+    "start":  "concurrently \"nodemon ./backend/server.js\" \"cd ./frontend/react-project && npx react-scripts start\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
